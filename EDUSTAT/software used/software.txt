@@ -1,0 +1,3 @@
+netbean 8.0.1
+java
+mysql5.7

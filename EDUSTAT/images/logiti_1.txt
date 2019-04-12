@@ -1,0 +1,11 @@
+consult
+https://cdn1.iconfinder.com/data/icons/journalist-4/64/report-message-news-broadcast-live-256.png
+
+college
+https://cdn4.iconfinder.com/data/icons/education-school-1/64/letter-512.png
+
+register
+https://cdn1.iconfinder.com/data/icons/journalist-4/64/notes-taking-writing-record-stationery-256.png
+
+rating
+https://cdn4.iconfinder.com/data/icons/success-filloutline/64/trophy-cup-champion-award-winner-256.png
